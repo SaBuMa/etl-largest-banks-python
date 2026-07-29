@@ -1,2 +1,2 @@
-# etl-largest-banks-python
+# ETL Pipeline – Largest Banks by Market Capitalization
 Python ETL pipeline that extracts bank market capitalization data from Wikipedia, transforms it using exchange rates, and loads the results into SQLite.
