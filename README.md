@@ -196,7 +196,7 @@ Potential enhancements include:
 
 **Santiago Burgos**
 
-Aspiring Data Engineer with a background in Electronics Engineering, passionate about building scalable data pipelines and cloud-based data solutions.
+Electronics Engineer, passionate about building scalable data pipelines and cloud-based data solutions.
 
 ---
 
