@@ -81,14 +81,21 @@ Wikipedia Archive
 ## Repository Structure
 
 ```
-.
-├── final_project.py
-├── exchange_rate.csv
-├── Largest_banks_data.csv
-├── Banks.db
-├── code_log.txt
-├── README.md
-└── requirements.txt
+etl-largest-banks/
+│
+├── final_project.py          # Main ETL pipeline
+├── exchange_rate.csv         # Input exchange rates
+├── README.md                 # Project documentation
+├── requirements.txt          # Python dependencies
+├── .gitignore                # Ignore generated files
+├── LICENSE                   # MIT License
+│
+├── screenshots/
+│   ├── dataframe_output.png
+│   ├── sqlite_query.png
+│
+└── images/
+    └── etl_pipeline.png
 ```
 
 ---
