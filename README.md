@@ -1,12 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
-
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-
-![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)
-
-![License](https://img.shields.io/badge/License-MIT-green)
-
-![Status](https://img.shields.io/badge/Project-Completed-success)
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)![License](https://img.shields.io/badge/License-MIT-green)![Status](https://img.shields.io/badge/Project-Completed-success)
 
 # ETL Pipeline - Largest Banks by Market Capitalization
 
